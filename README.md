@@ -90,3 +90,14 @@ What exactly is the plan for building this website? What does it need?
         - There needs to be a kick back if any of the sections are not filled in.
         - Once that button is clicked, we need to send that information to the restaurant in the form of a receipt. So what type of file is that? Do we automatically print a receipt? How does that work?
 
+Ideas of Tech Stack, What Tech will we be using?
+- This is what I know or plan to learn and use eventually.
+
+- Client Side
+    - HTML, CSS, JavaScript
+    -  Bootstrap, React, Redux
+- Server Side
+    - Node.js
+    - Express
+    - MongoDB
+
